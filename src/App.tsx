@@ -6,7 +6,7 @@ import { Store } from "./pages/Store"
 import { About } from "./pages/About"
 import { Navbar } from "./components/Navbar"
 
-//Esta funcion seria invocadapor mi aplicacion. 
+//Esta funcion seria invocada por mi aplicacion. 
 function App() {
   return (
     <>
